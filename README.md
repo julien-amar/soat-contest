@@ -1,5 +1,8 @@
 # SOAT Challenge (19 janvier 2016)
 
+**Url :** http://soat-challenge.cloudapp.net/
+**Twitter :** https://twitter.com/search?f=tweets&q=%23soatchallenge&src=typd
+
 ![](./media/logo.png)
 
 * [Introduction](#introduction)
